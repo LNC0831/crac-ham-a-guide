@@ -1,0 +1,18 @@
+# oh-my-claudecode 编排状态 / Claude Code 本地配置（与教程无关，不纳入版本库）
+.omc/
+**/.omc/
+.claude/
+
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# 临时文件 / 构建产物
+*.zip
+*.tmp
+node_modules/
