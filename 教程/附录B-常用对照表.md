@@ -59,17 +59,17 @@
 
 > 对应 §1.7.4。给频率判断波段，中英文都要会。
 
-| 缩写 | 中文 | 波段俗称 | 频率范围 | 业余典型 |
-|---|---|---|---|---|
-| VLF | 甚低频 | 甚长波 | 3–30 kHz | — |
-| **LF** | 低频 | 长波 | 30–300 kHz | 135.7 kHz |
-| **MF** | 中频 | 中波 | 300 kHz–3 MHz | 160 m |
-| **HF** | 高频 | **短波** | 3–30 MHz | 80/40/20/15/10 m |
-| **VHF** | 甚高频 | 米波 | 30–300 MHz | 6 m、**2 m** |
-| **UHF** | 特高频 | 分米波 | 300 MHz–3 GHz | **70 cm**、23 cm |
-| **SHF** | 超高频 | 厘米波 | 3–30 GHz | 5.6 GHz、10 GHz |
-| **EHF** | 极高频 | 毫米波 | 30–300 GHz | 241–250 GHz |
-| THF | 至高频 | 丝米波/亚毫米波 | 300 GHz–3 THz | — |
+| 缩写 | 英文全称 | 中文 | 波段俗称 | 频率范围 | 业余典型 |
+|---|---|---|---|---|---|
+| VLF | Very Low Frequency | 甚低频 | 甚长波 | 3–30 kHz | — |
+| **LF** | Low Frequency | 低频 | 长波 | 30–300 kHz | 135.7 kHz |
+| **MF** | Medium Frequency | 中频 | 中波 | 300 kHz–3 MHz | 160 m |
+| **HF** | High Frequency | 高频 | **短波** | 3–30 MHz | 80/40/20/15/10 m |
+| **VHF** | Very High Frequency | 甚高频 | 米波 | 30–300 MHz | 6 m、**2 m** |
+| **UHF** | Ultra High Frequency | 特高频 | 分米波 | 300 MHz–3 GHz | **70 cm**、23 cm |
+| **SHF** | Super High Frequency | 超高频 | 厘米波 | 3–30 GHz | 5.6 GHz、10 GHz |
+| **EHF** | Extremely High Frequency | 极高频 | 毫米波 | 30–300 GHz | 241–250 GHz |
+| THF | Tremendously High Frequency | 至高频 | 丝米波/亚毫米波 | 300 GHz–3 THz | — |
 
 ---
 
@@ -158,6 +158,31 @@
 | 10¹² 太 | 10⁹ 吉 | 10⁶ 兆 | 10³ 千 | 10⁻³ 毫 | 10⁻⁶ 微 | 10⁻⁹ 纳 | 10⁻¹² 皮 |
 
 > ⚠️ **大写 M=兆（10⁶），小写 m=毫（10⁻³）**，最易混。
+
+---
+
+## 九、常被误传的"全称"（避坑清单）
+
+下面这些缩写的全称/词源**最容易被网上资料写错**，本教程已逐一核实（来源：ITU《无线电规则》、ARRL、各官方文档）：
+
+| 缩写 | ✅ 正确 | ❌ 常见错误 |
+|---|---|---|
+| **Q 简语**（QSL/QSO/QRZ/QRM…） | 国际约定三字母代码，**没有字母全称**，只有约定含义 | 各种自造"全称"（backronym）均为附会 |
+| **FT8 / FT4** | **F**ranke-**T**aylor（两位作者姓氏）+ 8/4 电平 FSK | "Full Time" |
+| **VOX** | Voice-Operated **eX**change（X 取自 eXchange） | "Voice Box" |
+| **D-STAR** | Digital Smart **Technologies** for Amateur Radio（Technologies 复数） | "...Technology"（单数） |
+| **YAGI** | 发明人**八木秀次**的姓，完整称 **Yagi-Uda**（八木-宇田），**非缩写** | 当作首字母缩略词去拆 |
+| **CQ** | 普遍呼叫约定码，源自法语 *sécurité* | "Seek You"（民间附会） |
+| **73 / 88** | 电报数字码（73=致意，88=爱与吻），**无英文词组全称** | 硬找英文短语 |
+| **DE** | 源自**法语 de**（"来自"） | 当英文缩写 |
+| **ES** | 源自美式摩尔斯电码里 "&" 的写法（=and） | "Et Sign"之类 |
+| **UTC** | Coordinated Universal Time（字母序是英/法折中的中立选择，既非 CUT 也非 TUC） | 直接按英文 CUT |
+| **AMSAT** | **R**adio **A**mateur **Sat**ellite Corporation（全称与字母不逐位对应） | 逐字母硬套 |
+| **APRS** | Automatic Packet **Reporting** System | "...Position Reporting" |
+| **ALC** | Automatic **Level** Control | "...Level Compensation" |
+| **CTCSS** | Continuous **Tone-Coded** Squelch System | "...Tone Control" |
+| **DTMF** | Dual-Tone **Multi-Frequency** | "...Multiple Frequency" |
+| **截短键标**（SQL/PRE/PROC/ANT/VER/EL/BURO/RIG/BEAM） | 是英文单词的**截短**（squelch/preamp/processor/antenna…），**不是首字母缩略词** | 强行逐字母拆解 |
 
 ---
 
