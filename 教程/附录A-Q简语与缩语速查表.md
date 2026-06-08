@@ -64,74 +64,94 @@
 
 ### 问候与祝愿
 
-| 缩语 | 含义 | 缩语 | 含义 |
-|---|---|---|---|
-| ⭐GM | 早上好 (Good Morning) | ⭐GA | 下午好 (Good Afternoon) |
-| ⭐GE | 晚上好 (Good Evening) | ⭐GN | 晚安 (Good Night) |
-| ⭐**73** | 致意/问候（最常用） | 88 | 吻/爱意（多对 YL） |
-| ⭐GL | 祝好运 (Good Luck) | GB | 再见 (Good Bye) |
-| ⭐HNY | 新年快乐 | CUL / CU AGN | 回头见 |
+| 缩语 | 英文源词 / 词源 | 中文 |
+|---|---|---|
+| ⭐GM | Good Morning | 早上好 |
+| ⭐GA | Good Afternoon | 下午好 |
+| ⭐GE | Good Evening | 晚上好 |
+| ⭐GN | Good Night | 晚安 |
+| ⭐**73** | 电报数字码，意为 "best regards"（**无字母全称**） | 致意/问候（最常用） |
+| 88 | 电报数字码，意为 "love and kisses" | 吻/爱意（多对 YL） |
+| ⭐GL | Good Luck | 祝好运 |
+| GB | Good Bye | 再见 |
+| ⭐HNY | Happy New Year | 新年快乐 |
+| CUL / CU AGN | See You Later / See You Again | 回头见 |
 
 ### 礼貌与确认
 
-| 缩语 | 含义 | 缩语 | 含义 |
-|---|---|---|---|
-| ⭐PSE / PLS | 请 (Please) | ⭐TNX / TKS | 谢谢 (Thanks) |
-| ⭐TU | 谢谢你 (Thank You) | MNI/MNY TNX | 非常感谢 |
-| ⭐SRI | 抱歉 (Sorry) | ⭐R | Roger（收到/确认） |
-| ⭐FB | 太棒了 (Fine Business) | GLD | 高兴 (Glad) |
-| HPE | 希望 (Hope) | HPY/HPI | 幸福 (Happy) |
+| 缩语 | 英文源词 / 词源 | 中文 |
+|---|---|---|
+| ⭐PSE / PLS | Please | 请 |
+| ⭐TNX / TKS | Thanks | 谢谢 |
+| ⭐TU | Thank You | 谢谢你 |
+| MNI / MNY TNX | Many Thanks（MNI/MNY = Many） | 非常感谢 |
+| ⭐SRI | Sorry | 抱歉 |
+| ⭐R | Roger / Received | 收到（全部正确收妥） |
+| ⭐FB | Fine Business | 太棒了/很好 |
+| GLD | Glad | 高兴 |
+| HPE | Hope | 希望 |
+| HPY / HPI | Happy | 幸福 |
 
 ### 常用词与流程
 
-| 缩语 | 含义 | 缩语 | 含义 |
-|---|---|---|---|
-| ⭐UR | 你的/你是 (Your) | ⭐ES | 和 (And) |
-| ⭐FER | 为了/对于 (For) | ⭐NW | 现在 (Now) |
-| ⭐AGN | 再一次 (Again) | WL | 将要 (Will) |
-| ⭐FREQ | 频率 | TEMP | 温度 |
-| ⭐CQ | 普遍呼叫（找任意台） | ⭐DX | 远方/远距离 |
-| ⭐K | 请任意台回答（完成发送、守听） | ⭐KN | 只请**对方**回答 |
-| DE | 来自/这里是 (from) | AHR | 另一个 (another) |
-| CK | 检查 (Check) | WX | 天气 |
-| RIG | 电台设备 | PWR | 功率 |
-| HST | 高速收发报 | ARDF | 业余无线电测向 |
+| 缩语 | 英文源词 / 词源 | 中文 |
+|---|---|---|
+| ⭐UR | Your / You're | 你的/你是 |
+| ⭐ES | 源自美式摩尔斯电码的 "&"（= and） | 和 |
+| ⭐FER | For | 为了/对于 |
+| ⭐NW | Now | 现在 |
+| ⭐AGN | Again | 再一次 |
+| WL | Will / Well | 将要/好 |
+| ⭐FREQ | Frequency | 频率 |
+| TEMP | Temperature | 温度 |
+| ⭐CQ | 约定呼叫码（源自法语 *sécurité*；非 "seek you"） | 普遍呼叫（找任意台） |
+| ⭐DX | Distance / Distant | 远方/远距离 |
+| ⭐K | 程序信号 "invitation to transmit"（约定码，无字母全称） | 请任意台回答（完成发送、守听） |
+| ⭐KN | 程序信号，仅请**指定台**回答（named station only） | 只请对方回答 |
+| DE | 源自法语 *de*（"来自"） | 来自/这里是 |
+| AHR / ANR | Another | 另一个 |
+| CK | Check | 检查 |
+| WX | Weather | 天气 |
+| RIG | 英文词 rig（整套设备），**非缩写** | 电台设备 |
+| PWR | Power | 功率 |
+| HST | High-Speed Telegraphy | 高速电报 |
+| ARDF | Amateur Radio Direction Finding | 业余无线电测向（猎狐） |
 
 ### 人物称呼
 
-| 缩语 | 含义 |
-|---|---|
-| ⭐OM | **Old Man**——"老朋友/老伙计"（对男操作员的昵称，**无关年龄**） |
-| ⭐YL | **Young Lady**——女士 |
-| ⭐XYL | **ex-Young Lady**——妻子（已婚的 YL） |
-| ⭐OP | 操作员 (Operator) |
+| 缩语 | 英文源词 / 词源 | 中文 |
+|---|---|---|
+| ⭐OM | Old Man | "老朋友/老伙计"（对男操作员的昵称，**无关年龄**） |
+| ⭐YL | Young Lady | 女士 |
+| ⭐XYL | ex-Young Lady | 妻子（已婚的 YL） |
+| ⭐OP | Operator | 操作员 |
 
 ### 时间与邮寄/卡片
 
-| 缩语 | 含义 |
-|---|---|
-| GMT | 格林尼治时间（≈ UTC） |
-| ⭐SAE | 写好收信人地址的信封 |
-| ⭐SASE | 写好地址**且贴好邮票**的信封 |
-| ⭐BURO | QSL 卡片管理局 |
-| BOX / P O BOX | 邮政信箱 |
-| IRC | 国际回邮券 |
-| SWL | 短波收听者（只收听不发射，会寄收听卡） |
-| ADR / ADDR | 地址 |
+| 缩语 | 英文源词 / 词源 | 中文 |
+|---|---|---|
+| GMT | Greenwich Mean Time | 格林尼治时间（≈ UTC） |
+| ⭐SAE | Self-Addressed Envelope | 写好收信人地址的信封 |
+| ⭐SASE | Self-Addressed Stamped Envelope | 写好地址**且贴好邮票**的信封 |
+| ⭐BURO | bureau（法语借词的截短，**非缩写**） | QSL 卡片管理局 |
+| BOX / P O BOX | Post Office Box | 邮政信箱 |
+| IRC | International Reply Coupon | 国际回邮券 |
+| SWL | Short-Wave Listener | 短波收听者（只收听不发射，会寄收听卡） |
+| ADR / ADDR | Address | 地址 |
 
 ### 天线相关缩写（也常出现在 §2.4）
 
-| 缩写 | 天线 |
-|---|---|
-| ⭐DP | 偶极天线 (Dipole) |
-| ⭐GP | 垂直接地天线 (Ground Plane) |
-| ⭐VER | 垂直天线 (Vertical) |
-| ⭐LW | 长线天线 (Long Wire) |
-| ⭐YAGI | 八木天线 |
-| ⭐BEAM | 定向天线 |
-| EL / ELE / ELS | 振子单元 (Element) |
-| ANT | 天线 (Antenna) |
-| ATU | 天线调谐器（天调） |
+| 缩写 | 英文源词 / 词源 | 中文 |
+|---|---|---|
+| ⭐DP | Dipole | 偶极天线 |
+| ⭐GP | Ground Plane | 垂直接地天线 |
+| ⭐VER | Vertical | 垂直天线 |
+| ⭐LW | Long Wire | 长线天线 |
+| ⭐YAGI | Yagi-Uda（发明人八木秀次的姓，**非缩写**） | 八木天线 |
+| ⭐BEAM | Beam（英文词，泛指方向性天线） | 定向天线 |
+| EL / ELE / ELS | Element | 振子单元 |
+| ANT | Antenna | 天线 |
+| ATU | Antenna Tuning Unit | 天线调谐器（天调） |
 
 ---
 
